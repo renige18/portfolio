@@ -11,7 +11,7 @@
 * # 포트폴리오 
 ![image](https://user-images.githubusercontent.com/80032533/118580437-d59c5000-b7ca-11eb-9198-4fe55c3ef60e.png)    
 <br/><br/>
-## [- 스마트메뉴(GitHub)](https://github.com/renige18/deveryApp)  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; [- 공공배달 쉐어 앱(GitHub)](https://github.com/renige18/start_menu)
+## [- 스마트메뉴(GitHub)](https://github.com/renige18/start_menu)  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; [- 배달 쉐어 앱(GitHub)](https://github.com/renige18/deveryApp)
 ![image](https://user-images.githubusercontent.com/80032533/118580594-1e540900-b7cb-11eb-92a9-edd0e75b269b.png)
 
 <!--프로젝트 상세 -->
